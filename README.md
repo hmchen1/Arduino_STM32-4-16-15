@@ -10,3 +10,5 @@ Based on https://github.com/bobc/maple-asp, which is in turn based on LibMaple b
 See also my blog
 
 More information is available at http://www.rogerclark.net/stm32f103-and-maple-maple-mini-with-arduino-1-5-x-ide/
+
+http://forum.arduino.cc/index.php?topic=265904.0 is relevant(the cutting edge discussion) as is http://forum.arduino.cc/index.php?topic=310743.0 (if you don't want to disturb the developers in the other thread)
